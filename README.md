@@ -1,14 +1,13 @@
 This repository contains various Word Lists and related information.
 
 Files
------
-* wordlist-Internet-xxx.zip
+---
+* **wordlist-Internet-[version].zip**
 
-Large unique word list which is automatically generated from content of popular Uyghur websites. This word list may include large amount of misspelled or erroneous words.
-
-Each line of the file consists of three fields separated with comma in following format:
-
-[word],[number of appearance in all web pages],[number of web pages this word appeared] 
+  A list of large amount of unique words which are automatically extracted from html contents of many popular Uyghur websites and Wikipeda. This word list may contain almost all the Uyghur words that are available in Internet content. Also, it may containt many misspelled or erroneous words. Each line of the file consists of three fields separated with comma:
+ 
+ 
+ `[word],[number of appearance in all web pages],[number of web pages this word appeared in]`
 
 
 
