@@ -4,7 +4,7 @@ Files
 ---
 * **wordlist-Internet-[version].zip**
 
-  A list of large amount of unique words which are automatically extracted from html contents of many popular Uyghur websites and Wikipeda. This word list may contain almost all the Uyghur words that are available in Internet content. Also, it may containt many misspelled or erroneous words. Each line of the file consists of three fields separated with comma:
+  A list of more than 2 million unique words which are automatically extracted from HTML content of many popular Uyghur websites as well as Wikipeda. This word list containts majority of Uyghur words used on the Internet. Also, it may containt many misspelled or erroneous words. Each line of the file consists of three fields separated with comma:
  
  
  `[word],[number of appearance in all web pages],[number of web pages this word appeared in]`
