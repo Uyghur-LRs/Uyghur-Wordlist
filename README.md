@@ -8,8 +8,8 @@ Files
  
  `[Word],[Raw frequency],[Document frequency]`
 
-where,
-Raw frequency: number of times that a word occurs in all documents (web pages).
+  where,
+  Raw frequency: number of times that a word occurs in all documents (web pages).
 Document frequency: number of documents containing a word.
 
 Licence
